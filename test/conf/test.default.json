@@ -1,0 +1,11 @@
+{
+    "timezone": "Australia/Sydney",
+    "featureRegistry": {
+        "twilio": "src/index"
+    },
+    "twilio": {
+        "accountSid": "",
+        "authToken": "",
+        "from": ""
+    }
+}
